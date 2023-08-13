@@ -7,7 +7,7 @@ class Book(models.Model):
         verbose_name = 'книга'
         verbose_name_plural = 'книги'
 
-    title = models.CharField(max_length=100, verbose_name='название книги')
+    title = models.CharField(db_index=True, max_length=100, verbose_name='название книги')
     text = models.TextField()
     date = models.DateTimeField(auto_now_add=True)
     authors = models.ManyToManyField(User, related_name='books')
