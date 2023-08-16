@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0165f39-d4a4-4596-b8b4-853883fa4c14" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/migrations/0002_alter_book_options_book_count_likes_comment_likes_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/migrations/0003_alter_book_options_alter_book_title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/templates/add_book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_book_shop/templates/update_book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_book_shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_book_shop/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_book_shop/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_book_shop/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_book_shop/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_book_shop/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_book_shop/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_book_shop/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_book_shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_book_shop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_book_shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_book_shop/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0165f39-d4a4-4596-b8b4-853883fa4c14" name="Changes" comment="123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691955097070</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="123">
+      <created>1692217522468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692217522468</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,9 +121,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="123" />
     <MESSAGE value="1231" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>
